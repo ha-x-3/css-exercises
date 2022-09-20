@@ -67,3 +67,7 @@ ul {
   align-items: center;
   gap: 16px;
 }
+
+.right {
+  margin-left: auto;
+}
